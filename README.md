@@ -109,4 +109,3 @@ https://www.rabbitmq.com/install-debian.html#ports
 ### Auto switch connection
 
 https://snyk.io/advisor/npm-package/amqplib/functions/amqplib.connect
-# rabbitmq-cluster-ha
